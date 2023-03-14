@@ -8,6 +8,6 @@ public class CriticscornerController {
 
     @RequestMapping("/hello")
     String hello() {
-        return "Hello World, Spring Boot here!";
+        return "Hello World, Let's start Spring Boot Project!";
     }
 }
